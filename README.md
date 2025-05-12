@@ -37,7 +37,7 @@ donate-chai-widget/
 
 - HTML5
 - CSS3 (animations, transitions)
-- Google Fonts (Roboto)
+- Google Fonts (Bungee Shade)
 
 ---
 
