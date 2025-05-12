@@ -14,7 +14,7 @@ A simple, clean, and responsive QR code widget that lets users donate a cup of c
 
 - 📷 **QR Code donation** (support for any payment link that generates a QR)
 - ✨ **Smooth CSS animations** (`ease-in`)
-- 💬 **"Scan Me" call-to-action** in *Helvetica* (via Google Fonts)
+- 💬 **"Scan Me" call-to-action** in *Bungee Shade* (via Google Fonts)
 - 💡 **Minimal HTML/CSS structure** for easy customization
 - ✅ **Ready for GitHub Pages** deployment
 
