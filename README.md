@@ -2,7 +2,7 @@
 
 A simple, clean, and responsive QR code widget that lets users donate a cup of chai to the developer. Built using HTML and CSS, this page is designed to be lightweight, fast, and easy to deploy via GitHub Pages.
 <p align="center">
-  <a href="https://antnjhn.github.io/qr-page/">
+  <a href="https://antnjhn.github.io/donate-chai-widget/">
     <img
       src="https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png"
       alt="Scan Me"
