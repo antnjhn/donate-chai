@@ -22,7 +22,7 @@ A simple, clean, and responsive QR code widget that lets users donate a cup of c
 ## 📁 Folder Structure
 
 ```
-donate-chai/
+donate-chai-widget/
 ├── css/
 │   └── style.css       # Main styling file
 ├── images/
