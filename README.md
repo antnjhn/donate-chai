@@ -84,18 +84,17 @@ A minimal preview of the QR page:
    - **Folder:** `/` (root)
 
 Your site will be published at:  
-`https://<your-username>.github.io/qr-page`
+`https://<your-username>.github.io/donate-chai-widget=`
 
 ---
 
-## 📥 Embed in Your Own Repo
+## 📥 Embed in Your Own Repo:
 Want to add this QR icon to your own project README.md? You can use one of the following Markdown snippets:
-
 ## 🔘 Option 1: Centered QR Image
-
+**``https://<your-username>.github.io/donate-chai-widget)``change the url to that of the site.**
 ```html
 <p align="center">
-  <a href="[https://antnjhn.github.io/donate-chai-widget/](https://antnjhn.github.io/donate-chai-widget/)">
+  <a href="[https://antnjhn.github.io/donate-chai-widget/](https://<your-username>.github.io/donate-chai-widget)">
     <img
       src="[https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png](https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png)"
       alt="Scan Me"
@@ -105,10 +104,16 @@ Want to add this QR icon to your own project README.md? You can use one of the f
 ```
 ✅ This creates a centered QR image that links to the donation widget.
 
-## 🟨 Option 2: Inline Badge Style
-`[![Donate a Chai](https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png)](https://antnjhn.github.io/donate-chai-widget/)`
+## 🟨 Option 2: Inline Badge Style:
+**``https://<your-username>.github.io/donate-chai-widget)``change the url to that of the site.**
+
+```markdown
+[![Donate a Chai](https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png)](https://<your-username>.github.io/donate-chai-widget))
+```
 
 ✅ This adds a compact badge-style image you can place anywhere in your README.
+
+
 
 ## 📄 License
 
